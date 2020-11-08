@@ -1,6 +1,6 @@
 # My Professional Projects
 
-Celebrating over 13 years as a research engineer (image processing / machine vision) and Software Engineer (real time 3D graphics); please browse some of the projects that I have worked on professionally.
+Celebrating over 13 years as a Research Engineer (image processing / machine vision) and Software Engineer (real time 3D graphics); please browse some of the projects that I have worked on professionally.
 
 ## 2007-2009 - Image Processing Engineer (research engineer) @ Buhler Sortex
 
