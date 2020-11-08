@@ -45,7 +45,7 @@ The algorithm that I built worked as shown below on Risotto rice. Left is the in
 
 The main objective of this thesis was the design, implementation, and accuracy evaluation of an on-line system for the measurement of broken rice grains.
 
-Below is an example output images pair after my algorithm had finished processing the measurement of broken rice. The colour given to the rice objects indicate the status of the rice grain – black indicates a gain to be measured by the system. The back projection of the estimated rice length (in milimetres) is represented by the green lines; which was used as one component of the algorithm to determine if a rice grain is broken.
+Below is an example output images pair after my algorithm had finished processing the measurement of broken rice. The colour given to the rice objects indicate the status of the rice grain – black indicates a gain to be measured by the system. The back projection of the estimated rice length (in millimetres) is represented by the green lines; which was used as one component of the algorithm to determine if a rice grain is broken.
 
 ![](image/thesis_basmati.png)
 ![](image/thesis_basmati2.png)
