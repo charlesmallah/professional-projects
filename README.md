@@ -37,7 +37,7 @@ I designed a tool to allow multiple data-sets and algorithms to be used and test
 ![Object separation tool](image/rice_separation_tool.png)
 ![Example feedback image](image/rice_separation_tool2.png)
 
-The algorithm that I built worked as shown below on Risotto rice. Top is the input rice image; then the output of object separation; the bottom image shows the feedback markings.
+The algorithm that I built worked as shown below on Risotto rice. Left is the input rice image; then the output of object separation; the right image shows the feedback markings.
 
 ![Example feedback image](image/rice_separation_feedback.png)
 
