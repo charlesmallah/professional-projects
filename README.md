@@ -47,22 +47,21 @@ The main objective of this thesis was the design, implementation, and accuracy e
 
 Below is an example output images pair after my algorithm had finished processing the measurement of broken rice. The colour given to the rice objects indicate the status of the rice grain – black indicates a gain to be measured by the system. The back projection of the estimated rice length (in millimetres) is represented by the green lines; which was used as one component of the algorithm to determine if a rice grain is broken.
 
-![](image/thesis_basmati.png)
-![](image/thesis_basmati2.png)
+![Rice labeling](image/thesis_basmati.png)
+![Rice length measurement](image/thesis_basmati2.png)
 
 The experimental algorithm was first tested on hardware with a static feed.
 
-![](image/thesis_proto_static.png)
+![Broken rice measurement Static rig](image/thesis_proto_static.png)
 
 The algorithm was expanded to handle objects in motion, removing errors caused by movement and touching grains.
 
-![](image/thesis_proto_motion.png)
-![](image/thesis_proto_motion2.png)
+![Broken rice measurement Motion rig](image/thesis_proto_motion.png)
+![Broken rice measurement Motion rig](image/thesis_proto_motion2.png)
 
 Example measurement results for a large input of rice grains into the measurement device.
 
-![](image/thesis_proto_sampling_brokens.png)
-![](image/thesis_proto_sampling_mean.png)
+![Sampling results graph](image/thesis_proto_sampling.png)
 
 I was awarded my doctorate, and became a PhD, in 2013; the thesis is available [online](https://eprints.kingston.ac.uk/id/eprint/43011/).
 
