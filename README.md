@@ -105,9 +105,12 @@ I designed my first game using 2.5D movement and maths, including writing the st
 I led a research and development project to improve the rendering techniques used for simulating makeup. Foundation is difficult to simulate since it is semi-transparent, with various properties. In particular mixing colours correctly is difficult to simulate realistically. I built a new algorithm that runs in real time on the GPU and can mix an infinite number of colours together using an estimate of the optical properties (made from the colour) and the assumption that the materials are transparent. This work was built with Python prototypes, and c++ for real time implementation (using OpenGL graphics).
 
 ![Alabaster foundation simulation](image/hol_foundation1.png)
+
+For the reference image I put real foundation on the ladies faces at a fairly thick layer. These examples here were to show the wrong colour match on the faces. The models 2, 3 and 3b were my design to simulate the foundation and are created digitally with a real time rendering algorithm.
+
 ![Espresso foundation simulation](image/hol_foundation2.png)
 
-One of the main goals was to provide a better algorithm that could simulate 'the wrong foundation', since it is very difficult to match foundation to a user's skin colour, but the simulation should still look correct. The improved algorithms I created worked better with extreme colours being mixed (dark on light skin, for example).
+One of the main goals was to provide a better algorithm that could simulate 'the wrong foundation', since it is very difficult to match foundation to a user's skin colour, but the simulation should still look correct. The improved algorithms I created, especially Model 3b here, worked better with extreme colours being mixed (dark on light skin, for example).
 
 Also, the simulation of the product was more realistic by both user testing and by quantitative analysis, in which I had created a visual comparison measurement tool to determine the accuracy of the rendering technique as compared to the real thing.
 
