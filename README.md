@@ -43,7 +43,7 @@ The algorithm that I built worked as shown below on Risotto rice. Left is the in
 
 ## 2009-2013 - Sponsored PhD in Machine Vision @ Kingston University London
 
-The main objective of this thesis was the design, implementation, and accuracy evaluation of an on-line system for the measurement of broken rice grains.
+The main objective of this thesis was the design, implementation, and accuracy evaluation of an on-line system for the measurement of broken rice grains. Again, the coding language was MATLAB.
 
 Below is an example output images pair after my algorithm had finished processing the measurement of broken rice. The colour given to the rice objects indicate the status of the rice grain – black indicates a gain to be measured by the system. The back projection of the estimated rice length (in millimetres) is represented by the green lines; which was used as one component of the algorithm to determine if a rice grain is broken.
 
@@ -93,7 +93,7 @@ Other sports such as Basketball could be used by the same tool:
 
 ## 2015-2018 - Game Designer/Developer of 'Dark Wish' @ Freelance
 
-I designed my first game using 2.5D movement and maths, including writing the story and characters; drawing the artwork; and programming the game engine. This is available on 'Steam' for PC.
+I designed my first game using 2.5D movement and maths, including writing the story and characters; drawing the artwork; and programming the game engine. This is available on 'Steam' for PC. I built the engine with Lua, c++, and the Love2D graphics/audio framework (OpenGL and SDL based).
 
 ![Dark Wish screenshot](image/dark_wish.png)
 ![Dark Wish screenshot](image/dark_wish2.png)
@@ -103,7 +103,7 @@ I designed my first game using 2.5D movement and maths, including writing the st
 
 ### Augmented Reality Foundation Simulation
 
-I led a research and development project to improve the rendering techniques used for simulating makeup. Foundation is difficult to simulate since it is semi-transparent, with various properties. In particular mixing colours correctly is difficult to simulate realistically. I built a new algorithm that runs in real time on the GPU and can mix an infinite number of colours together using an estimate of the optical properties (made from the colour) and the assumption that the materials are transparent.
+I led a research and development project to improve the rendering techniques used for simulating makeup. Foundation is difficult to simulate since it is semi-transparent, with various properties. In particular mixing colours correctly is difficult to simulate realistically. I built a new algorithm that runs in real time on the GPU and can mix an infinite number of colours together using an estimate of the optical properties (made from the colour) and the assumption that the materials are transparent. This work was built with Python prototypes, and c++ for real time implementation (using OpenGL graphics).
 
 ![Alabaster foundation simulation](image/hol_foundation1.png)
 ![Espresso foundation simulation](image/hol_foundation2.png)
@@ -116,7 +116,7 @@ Also, the simulation of the product was more realistic by both user testing and 
 
 ### Augmented Reality Tutorials
 
-I took over the lead of a research and development project to build an animation tool that took After Effects animations and portray them onto the face using the in house face-tracking technology. This tool was to be available in web browsers. I created a solution to real-time convert the adobe data into a format that would be applied to a mesh-warping mechanism to put the effects on the face.
+I took over the lead of a research and development project to build an animation tool that took After Effects animations and portray them onto the face using the in house face-tracking technology. This tool was to be available in web browsers. I created a solution to real-time convert the adobe data into a format that would be applied to a mesh-warping mechanism to put the effects on the face. This was a c++ project, with NodeJS and Emscripten layers to make the project run on the web.
 
 ![Results of various models](image/hol_ar_tut1.png)
 
@@ -127,3 +127,5 @@ Burbery had released their branded version of the tool as their [Virtual Beauty 
 I am working on a new hobby project that will be cross-platform (including Nintendo Switch), PC, Linux, Apple iOS, and web browser. This will be crowd-funded.
 
 ![Example feedback image](image/daemon_team_six_screenshot.png)
+
+More is posted on my website [teamjungle.net](https://www.teamjungle.net/).
