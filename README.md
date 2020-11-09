@@ -93,7 +93,7 @@ Other sports such as Basketball could be used by the same tool:
 
 ## 2015-2018 - Game Designer/Developer of 'Dark Wish' @ Freelance
 
-I designed my first game using 2.5D movement and maths, including writing the story and characters; drawing the artwork; and programming the game engine.
+I designed my first game using 2.5D movement and maths, including writing the story and characters; drawing the artwork; and programming the game engine. This is available on 'Steam' for PC.
 
 ![Dark Wish screenshot](image/dark_wish.png)
 ![Dark Wish screenshot](image/dark_wish2.png)
@@ -121,3 +121,9 @@ I took over the lead of a research and development project to build an animation
 ![Results of various models](image/hol_ar_tut1.png)
 
 Burbery had released their branded version of the tool as their [Virtual Beauty Studio](https://hypebae.com/2020/10/burberry-beauty-virtual-studio-ar-makeup-looks-essentials-glow-palette-contour-blush-highlight-price-where-to-buy).
+
+## 2020 - Game Designer/Developer of 'Daemon Team Six' @ Freelance
+
+I am working on a new hobby project that will be cross-platform (including Nintendo Switch), PC, Linux, Apple iOS, and web browser. This will be crowd-funded.
+
+![Example feedback image](image/daemon_team_six_screenshot.png)
