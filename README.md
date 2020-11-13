@@ -6,7 +6,7 @@ Celebrating over 13 years as a Research Engineer (image processing / machine vis
 
 Optical sorting machines designed to operate at high-speed, and thus can sort faster than hand sorting. For a rice sorting machine in 2007, Basmati rice could be effectively sorted at 12 tonnes per hour depending on the required sort quality.
 
-At sortex I worked as an Image Processing Engineer, where we built algorithms, prototypes and always created our own tools (usually in MATLAB).
+At Sortex I worked as an Image Processing Engineer, where we built algorithms, prototypes and always created our own tools (usually in MATLAB).
 
 ### Feed Quality Measurement
 
@@ -47,7 +47,7 @@ The main objective of this thesis was the design, implementation, and accuracy e
 
 Below is an example output images pair after my algorithm had finished processing the measurement of broken rice. The colour given to the rice objects indicate the status of the rice grain – black indicates a gain to be measured by the system. The back projection of the estimated rice length (in millimetres) is represented by the green lines; which was used as one component of the algorithm to determine if a rice grain is broken.
 
-![Rice labeling](image/thesis_basmati.png)
+![Rice labelling](image/thesis_basmati.png)
 ![Rice length measurement](image/thesis_basmati2.png)
 
 The experimental algorithm was first tested on hardware with a static feed.
@@ -76,11 +76,11 @@ The tool was built to auto track the sports arena using the ground markings, whi
 ![Piero 'Opta' statistical data animations](image/piero_opta1.gif)
 ![Piero 'Opta' statistical data animations](image/piero_opta2.gif)
 
-In the bove you can see the software that we wrote in the background, which had a user interface for an operator to create the effects they wanted -- in the same way an operator of ‘Adobe After Effects’ would create their animations and render them out --.
+In the above you can see the software that we wrote in the background, which had a user interface for an operator to create the effects they wanted -- in the same way an operator of ‘Adobe After Effects’ would create their animations and render them out --.
 
 ![Piero 'Opta' statistical data animations](image/piero_opta3.gif)
 
-Somes rugby visualisations that I worked on:
+Some rugby visualisations that I worked on:
 
 ![Rugby visualisations](image/piero_rugby1.gif)
 ![Rugby visualisations](image/piero_rugby2.gif)
@@ -122,7 +122,7 @@ I took over the lead of a research and development project to build an animation
 
 ![Results of various models](image/hol_ar_tut1.png)
 
-Burbery had released their branded version of the tool as their [Virtual Beauty Studio](https://hypebae.com/2020/10/burberry-beauty-virtual-studio-ar-makeup-looks-essentials-glow-palette-contour-blush-highlight-price-where-to-buy).
+Burberry had released their branded version of the tool as their [Virtual Beauty Studio](https://hypebae.com/2020/10/burberry-beauty-virtual-studio-ar-makeup-looks-essentials-glow-palette-contour-blush-highlight-price-where-to-buy).
 
 ## 2020 - Game Designer/Developer of 'Daemon Team Six' @ Freelance
 
